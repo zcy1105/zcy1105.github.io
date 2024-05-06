@@ -1,0 +1,1 @@
+Unzip the package and click the index.html using Chrome 
